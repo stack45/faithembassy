@@ -2250,6 +2250,7 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/mega2.jpeg");
+				background-size: 105% 105%;
 			}
 
 			#main > section.two {
